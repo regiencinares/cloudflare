@@ -1,3 +1,3 @@
 // Created on iPad.
 
-console.log("Hello, World!")
+consosxxog("Hello panget!")
